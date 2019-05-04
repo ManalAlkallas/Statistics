@@ -16,7 +16,7 @@
       - [Conditional Probability](conditional)
       - [Bayes Rules](bayes)
    7. Regression
-- <b>Data Wranglling</b>
+
 
 ==========================================
 
@@ -307,6 +307,7 @@ The **slope** is defined as the predicted change in the response for every one u
 The notation for the population and sample slope values: 
 * ß<sub>1</sub> Beta One for the parameter
 * b<sub>1</sub> for the statistic.
+
 
 
 
