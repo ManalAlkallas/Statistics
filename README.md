@@ -1,20 +1,22 @@
 ## Table of Content
 
-1. [Statistics](#statistics) 
-   - [Descriptive Statistics](descriptive)
-   - [Inferential Statistics](inferential)
-2. [Notation](#notation)
-3. Types of Distributions
-   - Binomial Distribution
-   - Normal Distribution
-4. Bootstrapping
-5. Confidence Intervals
-6. Hypothesis Testing
-7. [Probability](#probability)
-   - [Binomial Distribution](binomial)
-   - [Conditional Probability](conditional)
-   - [Bayes Rules](bayes)
-8. Regression
+- <b>Practical Statistics</b>
+   1. [Statistics](#statistics) 
+      - [Descriptive Statistics](descriptive)
+      - [Inferential Statistics](inferential)
+   2. [Notation](#notation)
+      3. Types of Distributions
+         - Binomial Distribution
+         - Normal Distribution
+   3. Bootstrapping
+   4. Confidence Intervals
+   5. ypothesis Testing
+   6. Probability](#probability)
+      - [Binomial Distribution](binomial)
+      - [Conditional Probability](conditional)
+      - [Bayes Rules](bayes)
+   7. Regression
+- <b>Data Wranglling</b>
 
 ==========================================
 
